@@ -215,3 +215,10 @@ content{width:50%!important;}
     justify-content: center;
     flex: 0 0 240px;
 }
+
+.infocol, .inforow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 500px;
+}
